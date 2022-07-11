@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**SandorTeleki/SandorTeleki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 26 year old front-end dev.
+🔭 I’m currently working on Dom Inspector Bot - a Discord functionality bot for passing information from the Dom5 Mod Inspector
 
-Here are some ideas to get you started:
+## 💼 Skills / stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=blue&color=yellow)
+![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=purple&color=yellow)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=yellow)
+
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=orange&color=yellow)
+![](https://img.shields.io/badge/Webpack-informational?style=flat&logo=Webpack&logoColor=blue&color=yellow)
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=green&color=yellow)
+![](https://img.shields.io/badge/node.js-informational?style=flat&logo=node.js&logoColor=green&color=yellow)
+
+![](https://img.shields.io/badge/BEM-informational?style=flat&logo=BEM&logoColor=white&color=green)
+![](https://img.shields.io/badge/ES6-informational?style=flat&logo=JavaScript&logoColor=white&color=green)
+
