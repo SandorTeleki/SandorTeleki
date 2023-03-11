@@ -22,3 +22,16 @@ I am a 27 year old front-end dev.
 ![](https://img.shields.io/badge/BEM-informational?style=flat&logo=BEM&logoColor=white&color=green)
 ![](https://img.shields.io/badge/ES6-informational?style=flat&logo=JavaScript&logoColor=white&color=green)
 
+## :page_facing_up: Projects for Yandex Praktikum Frontend Dev course
+- Simple HTML+CSS static page: https://sandorteleki.github.io/russian-travel/
+- First Frontend project combining HTML+CSS+JS. Project Mesto: https://sandorteleki.github.io/mesto/
+- Porting Project Mesto to React: https://sandorteleki.github.io/mesto-react/
+- Playing around with backend in preperation to combine it with frontend for project Mesto: https://github.com/SandorTeleki/express-mesto-gha
+- Adding a Backend to Project Mesto: https://github.com/SandorTeleki/react-mesto-api-full
+- Final Project for Yandex Praktikum Frontend developer course: https://github.com/SandorTeleki/movies-explorer-frontend
+- Repository combining frontend and backend of Final Project: https://github.com/SandorTeleki/react-mesto-api-full
+
+
+## Personal projects: 
+- Discord bot for the game Dominions 5: https://github.com/SandorTeleki/dom_inspector_bot
+
