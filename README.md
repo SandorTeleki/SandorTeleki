@@ -29,7 +29,7 @@ I am a 27 year old front-end dev.
 - Playing around with backend in preperation to combine it with frontend for project Mesto: https://github.com/SandorTeleki/express-mesto-gha
 - Adding a Backend to Project Mesto: https://github.com/SandorTeleki/react-mesto-api-full
 - Final Project for Yandex Praktikum Frontend developer course: https://github.com/SandorTeleki/movies-explorer-frontend
-- Repository combining frontend and backend of Final Project: https://github.com/SandorTeleki/react-mesto-api-full
+- Repository combining frontend and backend for Final Project: https://github.com/SandorTeleki/react-mesto-api-full
 
 
 ## :shipit: Personal projects: 
