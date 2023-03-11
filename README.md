@@ -32,6 +32,6 @@ I am a 27 year old front-end dev.
 - Repository combining frontend and backend of Final Project: https://github.com/SandorTeleki/react-mesto-api-full
 
 
-## Personal projects: 
+## :shipit: Personal projects: 
 - Discord bot for the game Dominions 5: https://github.com/SandorTeleki/dom_inspector_bot
 
