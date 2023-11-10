@@ -22,9 +22,12 @@ I am a 27 year old front-end dev.
 ![](https://img.shields.io/badge/BEM-informational?style=flat&logo=BEM&logoColor=white&color=green)
 ![](https://img.shields.io/badge/ES6-informational?style=flat&logo=JavaScript&logoColor=white&color=green)
 
-## :shipit: Personal projects (to learn and for fun): 
+## :shipit: Personal (vanilla JS) projects: 
 - Discord bot for the game Dominions 5: https://github.com/SandorTeleki/dom_inspector_bot
 - Mini Vanilla JS Projects with a personal twist: https://github.com/SandorTeleki/inspiredvanillawebprojects
+
+## :shipit: Personal (Angular) projects:
+- A twist on the Tour of Heroes project: https://github.com/SandorTeleki/angular-tour-of-antiheroes
 
 ## :page_facing_up: Projects for Yandex Praktikum Frontend Dev course
 - Simple HTML+CSS static page: https://sandorteleki.github.io/russian-travel/
