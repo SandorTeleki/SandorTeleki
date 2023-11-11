@@ -27,7 +27,7 @@ I am a 27 year old front-end dev.
 - Mini Vanilla JS Projects with a personal twist: https://github.com/SandorTeleki/inspiredvanillawebprojects
 
 ## :shipit: Personal (Angular) projects:
-- Tour of Heroes project with a twist: https://github.com/SandorTeleki/angular-tour-of-heroes
+- WIP
   
 ## :page_facing_up: Projects for Yandex Praktikum Frontend Dev course
 - Simple HTML+CSS static page: https://sandorteleki.github.io/russian-travel/
