@@ -23,8 +23,8 @@ I am a 28 year old Front-End Developer.
 ![](https://img.shields.io/badge/ES6-informational?style=flat&logo=JavaScript&logoColor=white&color=green)
 
 ## Personal (vanilla JS) projects: 
-- Discord bot for the game Dominions 5: [dom_inspector_bot](https://github.com/SandorTeleki/dom_inspector_bot)
-- Mini Vanilla JS Projects with a personal twist: [inspiredvanillawebprojects](https://github.com/SandorTeleki/inspiredvanillawebprojects)
+- Discord bot for the game Dominions 5: [Dominions Inspector Bot](https://github.com/SandorTeleki/dom_inspector_bot)
+- Mini Vanilla JS Projects with a personal twist: [Inspired Vanilla Web Projects](https://github.com/SandorTeleki/inspiredvanillawebprojects)
 
 ## Personal (Angular) projects:
 - WIP
