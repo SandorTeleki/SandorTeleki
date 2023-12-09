@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 28 year old front-end dev.  
+I am a 28 year old Front-End Developer.  
 🔭 I’m currently working on Dom Inspector Bot - a Discord functionality bot for passing information from the Dom5 Mod Inspector
 
 ## Skills / stack
