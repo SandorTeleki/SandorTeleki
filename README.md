@@ -23,21 +23,21 @@ I am a 28 year old Front-End Developer.
 ![](https://img.shields.io/badge/ES6-informational?style=flat&logo=JavaScript&logoColor=white&color=green)
 
 ## Personal (vanilla JS) projects: 
-- [Discord bot for the game Dominions 5](https://github.com/SandorTeleki/dom_inspector_bot)
-- [Mini Vanilla JS Projects with a personal twist](https://github.com/SandorTeleki/inspiredvanillawebprojects)
+- Discord bot for the game Dominions 5: [dom_inspector_bot](https://github.com/SandorTeleki/dom_inspector_bot)
+- Mini Vanilla JS Projects with a personal twist: [inspiredvanillawebprojects](https://github.com/SandorTeleki/inspiredvanillawebprojects)
 
 ## Personal (Angular) projects:
 - WIP
   
-## Projects for Yandex Praktikum Frontend Dev course
-- [Simple HTML+CSS static page](https://sandorteleki.github.io/russian-travel/)
-- [First Frontend project combining HTML+CSS+JS - Project Mesto](https://sandorteleki.github.io/mesto/)
-- [Porting Project Mesto to React](https://sandorteleki.github.io/mesto-react/)
-- [Playing around with backend in preperation to combine it with frontend for project Mesto](https://github.com/SandorTeleki/express-mesto-gha)
-- [Adding a Backend to Project Mesto](https://github.com/SandorTeleki/react-mesto-api-full)
-- [Final Project for Yandex Praktikum Frontend developer course](https://github.com/SandorTeleki/movies-explorer-frontend)
-- [Repository combining frontend and backend for Final Project](https://github.com/SandorTeleki/react-mesto-api-full)
-
+## Projects from Yandex Praktikum Frontend Developer course:
+- Simple HTML+CSS static page: [Russian Travel](https://sandorteleki.github.io/russian-travel/)
+- First Frontend project combining HTML+CSS+JS: [Project Mesto](https://sandorteleki.github.io/mesto/)
+- Porting Project Mesto to React: [Mesto-React](https://sandorteleki.github.io/mesto-react/)
+- Playing around with backend in preperation to combine it with frontend for project Mesto: [Express-Mesto](https://github.com/SandorTeleki/express-mesto-gha)
+- Adding authorization for project Mesto: [Mesto Auth](https://github.com/SandorTeleki/react-mesto-auth)
+- Adding a Backend to Project Mesto: [React Mesto API Full](https://github.com/SandorTeleki/react-mesto-api-full)
+- Frontend for final project of the course: [Movies Explorer Frontend](https://github.com/SandorTeleki/movies-explorer-frontend)
+- Backend for final project of the course: [Movies Explorer Backend/API](https://github.com/SandorTeleki/movies-explorer-api)
 
 
 
