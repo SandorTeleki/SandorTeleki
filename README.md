@@ -3,7 +3,7 @@
 I am a 28 year old front-end dev.  
 🔭 I’m currently working on Dom Inspector Bot - a Discord functionality bot for passing information from the Dom5 Mod Inspector
 
-## 💼 Skills / stack
+## Skills / stack
 
 ![](https://img.shields.io/badge/React.js-informational?style=flat&logo=React&logoColor=blue&color=yellow)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=purple&color=yellow)
@@ -22,14 +22,14 @@ I am a 28 year old front-end dev.
 ![](https://img.shields.io/badge/BEM-informational?style=flat&logo=BEM&logoColor=white&color=green)
 ![](https://img.shields.io/badge/ES6-informational?style=flat&logo=JavaScript&logoColor=white&color=green)
 
-## :shipit: Personal (vanilla JS) projects: 
+## Personal (vanilla JS) projects: 
 - Discord bot for the game Dominions 5: https://github.com/SandorTeleki/dom_inspector_bot
 - Mini Vanilla JS Projects with a personal twist: https://github.com/SandorTeleki/inspiredvanillawebprojects
 
-## :shipit: Personal (Angular) projects:
+## Personal (Angular) projects:
 - WIP
   
-## :page_facing_up: Projects for Yandex Praktikum Frontend Dev course
+## Projects for Yandex Praktikum Frontend Dev course
 - Simple HTML+CSS static page: https://sandorteleki.github.io/russian-travel/
 - First Frontend project combining HTML+CSS+JS. Project Mesto: https://sandorteleki.github.io/mesto/
 - Porting Project Mesto to React: https://sandorteleki.github.io/mesto-react/
