@@ -30,7 +30,7 @@ I am a 28 year old Front-End Developer.
 - WIP
   
 ## Projects from Yandex Praktikum Frontend Developer course:
-- Simple HTML+CSS static page: [Russian Travel](https://sandorteleki.github.io/russian-travel/)
+- Simple HTML+CSS static page: [Russian Travel](https://sandorteleki.github.io/russian-travel/) ([Repo](https://github.com/SandorTeleki/russian-travel))
 - First Frontend project combining HTML+CSS+JS: [Project Mesto](https://sandorteleki.github.io/mesto/)
 - Porting Project Mesto to React: [Mesto-React](https://sandorteleki.github.io/mesto-react/)
 - Playing around with backend in preperation to combine it with frontend for project Mesto: [Express-Mesto](https://github.com/SandorTeleki/express-mesto-gha)
