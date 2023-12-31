@@ -31,8 +31,9 @@ I am a 28 year old Front-End Developer.
   
 ## Projects from Yandex Praktikum Frontend Developer course:
 | Description | Demo | Repository |
-| First, non-dynamic, HTML+CSS static page | [How to Learn](https://sandorteleki.github.io/how-to-learn/) | ([Repo](https://github.com/SandorTeleki/how-to-learn))
-- Simple HTML+CSS static page: [Russian Travel](https://sandorteleki.github.io/russian-travel/) | ([Repo](https://github.com/SandorTeleki/russian-travel))
+| ---------------------- | ------- | -------- |
+| First, non-dynamic, HTML+CSS static page | [How to Learn](https://sandorteleki.github.io/how-to-learn/) | ([Repo](https://github.com/SandorTeleki/how-to-learn)) |
+| Simple HTML+CSS static page | [Russian Travel](https://sandorteleki.github.io/russian-travel/) | ([Repo](https://github.com/SandorTeleki/russian-travel)) |
 - First Frontend project combining HTML+CSS+JS: [Project Mesto](https://sandorteleki.github.io/mesto/) | ([Repo](https://github.com/SandorTeleki/mesto))
 - Porting Project Mesto to React: [Mesto-React](https://sandorteleki.github.io/mesto-react/) | ([Repo](https://github.com/SandorTeleki/mesto-react))
 - Playing around with backend in preperation to combine it with frontend for project Mesto: [Express-Mesto](https://github.com/SandorTeleki/express-mesto-gha)
