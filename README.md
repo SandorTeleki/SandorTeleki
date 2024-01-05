@@ -26,7 +26,7 @@ I am a 28 year old Front-End Developer.
 | Description | Demo | Repository |
 | ---------------------- | ------- | -------- |
 | Discord bot for the game Dominions 5 | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/dom_inspector_bot) |
-| Mini Vanilla JS Projects with a personal twist | [Inspired Vanilla Web Projects](https://sandorteleki.github.io/inspiredvanillawebprojects/) | [Repo](https://github.com/SandorTeleki/inspiredvanillawebprojects)|
+| Mini Vanilla JS Projects with a personal twist (and new projects) | [Inspired Vanilla Web Projects](https://sandorteleki.github.io/inspiredvanillawebprojects/) | [Repo](https://github.com/SandorTeleki/inspiredvanillawebprojects)|
 
 ## Personal (Angular) projects:
 | Description | Demo | Repository |
