@@ -29,7 +29,9 @@ I am a 28 year old Front-End Developer.
 | Mini Vanilla JS Projects with a personal twist | [Inspired Vanilla Web Projects](https://sandorteleki.github.io/inspiredvanillawebprojects/) | [Repo](https://github.com/SandorTeleki/inspiredvanillawebprojects)|
 
 ## Personal (Angular) projects:
-- WIP
+| Description | Demo | Repository |
+| ---------------------- | ------- | -------- |
+| WIP | WIP | WIP |
   
 ## Projects from Yandex Praktikum Frontend Developer course:
 | Description | Demo | Repository |
