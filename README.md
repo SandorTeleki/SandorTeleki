@@ -22,7 +22,7 @@ I am a 28 year old Front-End Developer.
 ![](https://img.shields.io/badge/BEM-informational?style=flat&logo=BEM&logoColor=white&color=green)
 ![](https://img.shields.io/badge/ES6-informational?style=flat&logo=JavaScript&logoColor=white&color=green)
 
-## Personal (vanilla JS) projects: 
+## Personal (vanilla JavaScript) projects: 
 | Description | Demo | Repository |
 | ---------------------- | ------- | -------- |
 | Discord bot for the game Dominions 5 | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/dom_inspector_bot) |
