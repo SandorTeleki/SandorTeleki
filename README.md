@@ -10,6 +10,7 @@ I am a 28 year old Front-End Developer.
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=purple&color=yellow)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Discord.js-informational?style=flat&logo=Discord.js&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=yellow)
 
