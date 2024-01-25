@@ -33,6 +33,11 @@ I am a 28 year old Front-End Developer.
 | Description | Demo | Repository |
 | ---------------------- | ------- | -------- |
 | WIP | WIP | WIP |
+
+## Forked projects
+| Description | Demo | Repository |
+| ---------------------- | ------- | -------- |
+| Discord bot for the server Immersion, forked from Lexxicon's original repository | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/AshaBot) |
   
 ## Projects from Yandex Praktikum Frontend Developer course:
 | Description | Demo | Repository |
