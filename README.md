@@ -25,25 +25,29 @@ I am a 28 year old Front-End Developer.
 ![](https://img.shields.io/badge/ES6-informational?style=flat&logo=JavaScript&logoColor=white&color=green)
 <br />  
 <br />  
+
 ## Personal (vanilla JavaScript) projects: 
 | Description | Demo | Repository |
 | ---------------------- | ------- | -------- |
 | Discord bot for the game Dominions 5 | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/dom_inspector_bot) |
 | Mini vanilla JavaScript projects with a personal twist (along with new projects I created) | [Inspired Vanilla Web Projects](https://sandorteleki.github.io/inspiredvanillawebprojects/) | [Repo](https://github.com/SandorTeleki/inspiredvanillawebprojects)|
 <br />  
-<br />  
+<br />
+
 ## Personal (Angular) projects:
 | Description | Demo | Repository |
 | ---------------------- | ------- | -------- |
 | WIP | WIP | WIP |
 <br />  
 <br />  
+
 ## Forked projects (tweaking them, rehosting them etc.):
 | Description | Demo | Repository |
 | ---------------------- | ------- | -------- |
 | Discord bot for the server Immersion, forked from [Lexxicon's](https://github.com/Lexxicon/ImmersionBot) original repository for more stable hosting and fixing issues with dependencies | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/AshaBot) |
 <br />  
-<br />   
+<br /> 
+
 ## Projects from Yandex Praktikum Frontend Developer course:
 | Description | Demo | Repository |
 | ---------------------- | ------- | -------- |
