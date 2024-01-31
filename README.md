@@ -62,5 +62,5 @@ I am also taking over support for AshaBot, another Discord utility bot.
 | Frontend for final project of the course | Movies Explorer Frontend | [Repo](https://github.com/SandorTeleki/movies-explorer-frontend) |
 | Backend for final project of the course | Movies Explorer Backend/API | [Repo](https://github.com/SandorTeleki/movies-explorer-api) |
 
-Note: The demos for the later projects are currently unavaiable.
+Note: The demos for the later projects are currently unavaiable due to hosting issues at Yandex.
 
