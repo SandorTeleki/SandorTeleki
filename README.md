@@ -38,7 +38,7 @@ I am also taking over support for AshaBot, another Discord utility bot.
 ## Personal (Angular) projects:
 | Description | Demo | Repository |
 | ---------------------- | ------- | -------- |
-| Project expanding and tweaking the Tour of Heroes official guide from the Angular website. | [Tour of Heroes, with a twist](https://sandorteleki.github.io/tour_of_heroes/) | [Repo](https://github.com/SandorTeleki/tour_of_heroes) |
+| Project expanding and tweaking the Tour of Heroes official guide from the Angular website. | WIP | [Repo](https://github.com/SandorTeleki/tour_of_heroes) |
 <br />  
 <br />  
 
