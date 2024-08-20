@@ -2,7 +2,7 @@
 
 I am a 28 year old Back-End Developer.  
 I’m currently working on Dom Inspector Bot - a Discord functionality bot for passing information from the Dom5 Mod Inspector. 
-I am also taking over support for AshaBot, another Discord utility bot.
+I also took over support for AshaBot, another Discord utility bot.
 
 
 ## Skills / stack
