@@ -31,7 +31,7 @@ I also took over support for AshaBot, another Discord utility bot.
 | Description | Demo | Repository |
 | ---------------------- | ------- | -------- |
 | Discord bot for the game Dominions 5 (Dominions 6 support is planned). | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/dom_inspector_bot) |
-| Discord bot for timing out and freeing users. | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/moderation_bonk_bot) |
+| Discord bot for moderating and tracking users that spam messages. | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/moderation_bonk_bot) |
 | Mini vanilla JavaScript projects with a personal twist (along with new projects I created). | [Inspired Vanilla Web Projects](https://sandorteleki.github.io/inspiredvanillawebprojects/) | [Repo](https://github.com/SandorTeleki/inspiredvanillawebprojects)|
 <br />  
 <br />
