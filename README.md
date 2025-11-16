@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-I am a 29 year old Back-End Developer.  
+I am a 30 year old Back-End Developer.  
 I’m currently working on Dom Inspector Bot - a Discord functionality bot for passing information from the Dom5 Mod Inspector. 
 I also took over support for AshaBot, another Discord utility bot.
 
