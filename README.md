@@ -18,7 +18,7 @@ I also took over support for AshaBot, another Discord utility bot.
 ## Personal (Angular) projects:
 | Name | Description | Demo | Repository |
 | -----| ----------- | ---- | ---------- |
-| Tour Heroes | Project expanding and tweaking the Tour of Heroes official guide from the Angular website. Partially changed CSS to be in line with Spark Flare 4.0. | [Tour of Heroes](https://sandorteleki.github.io/tour_of_heroes/) | [Repo](https://github.com/SandorTeleki/tour_of_heroes) |
+| Tour of Heroes | Project expanding and tweaking the Tour of Heroes official guide from the Angular website. Partially changed CSS to be in line with Spark Flare 4.0. | [Tour of Heroes](https://sandorteleki.github.io/tour_of_heroes/) | [Repo](https://github.com/SandorTeleki/tour_of_heroes) |
 <br />  
 <br />  
 
