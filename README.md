@@ -17,7 +17,7 @@ I also took over support for AshaBot, another Discord utility bot.
  
 <br /> 
 
-## Projects based on boot.dev courses
+## Projects based on [boot.dev](https://www.boot.dev/) courses
 | Name | Description | Language | Repository |
 | -----| ----------- | ---- | ---------- |
 | Pokedex | Basic Pokedex using [PokeAPI](https://pokeapi.co/). | TypeScript | [Repo](https://github.com/SandorTeleki/pokedex)|
@@ -25,7 +25,7 @@ I also took over support for AshaBot, another Discord utility bot.
 
 <br /> 
 
-## Projects from Yandex Praktikum Frontend Developer course:
+## Projects from Yandex Praktikum [Frontend Developer](https://practicum.yandex.com/frontend-developer/) course:
 | Name | Description | Demo | Repository |
 | -----| ----------- | ---- | ---------- |
 | How to Learn | First, non-dynamic, HTML+CSS static page. | [How to Learn](https://sandorteleki.github.io/how-to-learn/) | [Repo](https://github.com/SandorTeleki/how-to-learn) |
