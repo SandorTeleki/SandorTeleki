@@ -6,28 +6,23 @@ I also took over support for AshaBot, another Discord utility bot.
 
 <br />  
 
-## Personal (vanilla JavaScript) projects: 
+## Personal projects: 
 | Name | Description | Demo | Repository |
 | -----| ----------- | ---- | ---------- |
 | Dom Inspector Bot | Discord bot for the game Dominions 5 (Dominions 6 support is planned). | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/dom_inspector_bot) |
 | Moderation Bonk Bot| Discord bot for moderating and tracking users that spam messages. | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/moderation_bonk_bot) |
 | Inspired Vanilla Web Projects | Mini vanilla JavaScript projects with a personal twist (along with new projects I created). | [Inspired Vanilla Web Projects](https://sandorteleki.github.io/inspiredvanillawebprojects/) | [Repo](https://github.com/SandorTeleki/inspiredvanillawebprojects)|
-<br />  
-<br />
-
-## Personal (Angular) projects:
-| Name | Description | Demo | Repository |
-| -----| ----------- | ---- | ---------- |
 | Tour of Heroes | Project expanding and tweaking the Tour of Heroes official guide from the Angular website. Partially changed CSS to be in line with Spark Flare 4.0. | [Tour of Heroes](https://sandorteleki.github.io/tour_of_heroes/) | [Repo](https://github.com/SandorTeleki/tour_of_heroes) |
-<br />  
-<br />  
-
-## Forked projects (tweaking them, rehosting them etc.):
-| Name | Description | Demo | Repository |
-| -----| ----------- | ---- | ---------- |
 | Asha Bot | Discord bot for the server Immersion, forked from [Lexxicon's](https://github.com/Lexxicon/ImmersionBot) original repository for more stable hosting and fixing issues with dependencies. | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/AshaBot) |
 <br />  
 <br /> 
+
+## Projects based on boot.dev courses
+| Name | Description | Demo | Repository |
+| -----| ----------- | ---- | ---------- |
+| Pokedex | Basic pokedex using [PokeAPI](https://pokeapi.co/). | Demo | [Repo](https://github.com/SandorTeleki/pokedex)|
+| Book Bot | Provides basic stats on books you have downloaded. | Demo | [Repo](https://github.com/SandorTeleki/bookbot)|
+
 
 ## Projects from Yandex Praktikum Frontend Developer course:
 | Name | Description | Demo | Repository |
