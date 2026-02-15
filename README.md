@@ -9,8 +9,8 @@ I also took over support for AshaBot, another Discord utility bot.
 ## Personal (vanilla JavaScript) projects: 
 | Name | Description | Demo | Repository |
 | -----| ----------- | ---- | ---------- |
-| DomInspectorBot | Discord bot for the game Dominions 5 (Dominions 6 support is planned). | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/dom_inspector_bot) |
-| ModerationBonkBot| Discord bot for moderating and tracking users that spam messages. | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/moderation_bonk_bot) |
+| Dom Inspector Bot | Discord bot for the game Dominions 5 (Dominions 6 support is planned). | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/dom_inspector_bot) |
+| Moderation Bonk Bot| Discord bot for moderating and tracking users that spam messages. | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/moderation_bonk_bot) |
 | Inspired Vanilla Web Projects | Mini vanilla JavaScript projects with a personal twist (along with new projects I created). | [Inspired Vanilla Web Projects](https://sandorteleki.github.io/inspiredvanillawebprojects/) | [Repo](https://github.com/SandorTeleki/inspiredvanillawebprojects)|
 <br />  
 <br />
@@ -25,7 +25,7 @@ I also took over support for AshaBot, another Discord utility bot.
 ## Forked projects (tweaking them, rehosting them etc.):
 | Name | Description | Demo | Repository |
 | -----| ----------- | ---- | ---------- |
-| AshaBot | Discord bot for the server Immersion, forked from [Lexxicon's](https://github.com/Lexxicon/ImmersionBot) original repository for more stable hosting and fixing issues with dependencies. | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/AshaBot) |
+| Asha Bot | Discord bot for the server Immersion, forked from [Lexxicon's](https://github.com/Lexxicon/ImmersionBot) original repository for more stable hosting and fixing issues with dependencies. | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/AshaBot) |
 <br />  
 <br /> 
 
