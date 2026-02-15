@@ -37,10 +37,10 @@ I also took over support for AshaBot, another Discord utility bot.
 | Project Mesto | First Frontend project combining HTML+CSS+JS. | [Project Mesto](https://sandorteleki.github.io/mesto/) | [Repo](https://github.com/SandorTeleki/mesto) |
 | Mesto-React | Porting Project Mesto to React. | [Mesto-React](https://sandorteleki.github.io/mesto-react/) | [Repo](https://github.com/SandorTeleki/mesto-react) |
 | Express-Mesto | Playing around with backend in preperation to combine it with frontend for project Mesto. | Express-Mesto* | [Repo](https://github.com/SandorTeleki/express-mesto-gha) |
-| Mesto Auth | Adding authorization for project Mesto. | Mesto Auth | [Repo](https://github.com/SandorTeleki/react-mesto-auth) |
-| React Mesto API | Adding a Backend to Project Mesto | React Mesto API Full. | [Repo](https://github.com/SandorTeleki/react-mesto-api-full) |
-| Movies Explorer Frontend | Frontend for final project of the course | Movies Explorer Frontend. | [Repo](https://github.com/SandorTeleki/movies-explorer-frontend) |
-| Movies Explorer Backend/API | Backend for final project of the course | Movies Explorer Backend/API. | [Repo](https://github.com/SandorTeleki/movies-explorer-api) |
+| Mesto Auth | Adding authorization for project Mesto. | Mesto Auth* | [Repo](https://github.com/SandorTeleki/react-mesto-auth) |
+| React Mesto API | Adding a Backend to Project Mesto | React Mesto API Full* | [Repo](https://github.com/SandorTeleki/react-mesto-api-full) |
+| Movies Explorer Frontend | Frontend for final project of the course | Movies Explorer Frontend* | [Repo](https://github.com/SandorTeleki/movies-explorer-frontend) |
+| Movies Explorer Backend/API | Backend for final project of the course | Movies Explorer Backend/API* | [Repo](https://github.com/SandorTeleki/movies-explorer-api) |
 
-* = The demos for the later projects are currently unavaiable due to hosting issues.
+\* = The demos for the later projects are currently unavaiable due to hosting issues.
 
