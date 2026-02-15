@@ -14,7 +14,7 @@ I also took over support for AshaBot, another Discord utility bot.
 | Inspired Vanilla Web Projects | Mini vanilla JavaScript projects with a personal twist (along with new projects I created). | [Inspired Vanilla Web Projects](https://sandorteleki.github.io/inspiredvanillawebprojects/) | [Repo](https://github.com/SandorTeleki/inspiredvanillawebprojects)|
 | Tour of Heroes | Project expanding and tweaking the Tour of Heroes official guide from the Angular website. Partially changed CSS to be in line with Spark Flare 4.0. | [Tour of Heroes](https://sandorteleki.github.io/tour_of_heroes/) | [Repo](https://github.com/SandorTeleki/tour_of_heroes) |
 | Asha Bot | Discord bot for the server Immersion, forked from [Lexxicon's](https://github.com/Lexxicon/ImmersionBot) original repository for more stable hosting and fixing issues with dependencies. | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/AshaBot) |
-<br />  
+ 
 <br /> 
 
 ## Projects based on boot.dev courses
@@ -23,6 +23,7 @@ I also took over support for AshaBot, another Discord utility bot.
 | Pokedex | Basic pokedex using [PokeAPI](https://pokeapi.co/). | Demo | [Repo](https://github.com/SandorTeleki/pokedex)|
 | Book Bot | Provides basic stats on books you have downloaded. | Demo | [Repo](https://github.com/SandorTeleki/bookbot)|
 
+<br /> 
 
 ## Projects from Yandex Praktikum Frontend Developer course:
 | Name | Description | Demo | Repository |
