@@ -22,7 +22,7 @@ I also took over support for AshaBot, another Discord utility bot.
 | -----| ----------- | -------- | ---- | --------- |
 | Pokedex | Basic Pokedex using [PokeAPI](https://pokeapi.co/). | TypeScript | CLI app | [Repo](https://github.com/SandorTeleki/pokedex)|
 | Book Bot | Provides basic stats on books you have downloaded. | Python | CLI app |[Repo](https://github.com/SandorTeleki/bookbot)|
-| Asteroids Game | WIP | Python | WIP |[Repo](https://github.com/SandorTeleki/asteroids-game)|
+| Asteroids Game | Basic asteroids game | Python | CLI app |[Repo](https://github.com/SandorTeleki/asteroids-game)|
 
 <br /> 
 
