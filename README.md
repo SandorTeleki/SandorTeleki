@@ -18,10 +18,11 @@ I also took over support for AshaBot, another Discord utility bot.
  
 <br /> 
 
-## Projects based on [boot.dev](https://www.boot.dev/) courses
+## Projects based on [boot.dev](https://www.boot.dev/) courses:
 | Name | Description | Demo |Repository | Language |
 | -----| ----------- | ---- | --------- | -------- |
 | Pokedex | Basic Pokedex using [PokeAPI](https://pokeapi.co/). | CLI app | [Repo](https://github.com/SandorTeleki/pokedex) | TypeScript |
+| Blog Aggregator | RSS feed aggregator | CLI app | [Repo](https://github.com/SandorTeleki/aggreGATOR/tree/main) | TypeScript |
 | Book Bot | Provides basic stats on books you have downloaded. | CLI app | [Repo](https://github.com/SandorTeleki/bookbot) |  Python |
 | Asteroids Game | Basic asteroids game | CLI app | [Repo](https://github.com/SandorTeleki/asteroids-game) | Python |
 
