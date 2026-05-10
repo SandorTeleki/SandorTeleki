@@ -7,14 +7,14 @@ I also took over support for AshaBot, another Discord utility bot.
 <br />  
 
 ## Personal projects: 
-| Name | Description | Demo | Repository |
-| -----| ----------- | ---- | ---------- |
-| Dom Inspector Bot | Discord bot for the game Dominions 5 (Dominions 6 support is planned). | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/dom_inspector_bot) |
-| Moderation Bonk Bot| Discord bot for moderating and tracking users that spam messages. | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/moderation_bonk_bot) |
-| Inspired Vanilla Web Projects | Vanilla JavaScript projects with a personal twist along with new projects I created. | [Inspired Vanilla Web Projects](https://sandorteleki.github.io/inspiredvanillawebprojects/) | [Repo](https://github.com/SandorTeleki/inspiredvanillawebprojects)|
-| Tour of Heroes | Project expanding and tweaking the Tour of Heroes official guide from the Angular website. CSS partially in line with [Spark Flare 4.0](https://spark.genesys.com/latest/home-N9duape8). | [Tour of Heroes](https://sandorteleki.github.io/tour_of_heroes/) | [Repo](https://github.com/SandorTeleki/tour_of_heroes) |
-| Asha Bot | Discord bot, forked from [Lexxicon's](https://github.com/Lexxicon/ImmersionBot) original repo for more stable hosting and fixes. | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/AshaBot) |
-| Buddha.py (bot) | Discord bot, returning quotes attributed to Buddha | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/buddha.py) |
+| Name | Description | Demo | Repository | Language |
+| -----| ----------- | ---- | ---------- | -------- |
+| Dom Inspector Bot | Discord bot for the game Dominions 5 (Dominions 6 support is planned). | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/dom_inspector_bot) | JavaScript |
+| Moderation Bonk Bot| Discord bot for moderating and tracking users that spam messages. | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/moderation_bonk_bot) | JavaScript |
+| Inspired Vanilla Web Projects | Vanilla JavaScript projects with a personal twist along with new projects I created. | [Inspired Vanilla Web Projects](https://sandorteleki.github.io/inspiredvanillawebprojects/) | [Repo](https://github.com/SandorTeleki/inspiredvanillawebprojects)| JavaScript |
+| Tour of Heroes | Project expanding and tweaking the Tour of Heroes official guide from the Angular website. CSS partially in line with [Spark Flare 4.0](https://spark.genesys.com/latest/home-N9duape8). | [Tour of Heroes](https://sandorteleki.github.io/tour_of_heroes/) | [Repo](https://github.com/SandorTeleki/tour_of_heroes) | TypeScript |
+| Asha Bot | Discord bot, forked from [Lexxicon's](https://github.com/Lexxicon/ImmersionBot) original repo for more stable hosting and fixes. | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/AshaBot) | TypeScript |
+| Buddha.py (bot) | Discord bot, returning quotes attributed to Buddha | [Discord Server](https://discord.gg/GXgFXjXAaC) | [Repo](https://github.com/SandorTeleki/buddha.py) | Python |
  
 <br /> 
 
