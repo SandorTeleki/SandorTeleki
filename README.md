@@ -25,6 +25,8 @@ I also took over support for AshaBot, another Discord utility bot.
 | aggreGATOR | RSS feed aggregator. | CLI app | [Repo](https://github.com/SandorTeleki/aggreGATOR/tree/main) | TypeScript |
 | Book Bot | Provides basic stats on books you have downloaded. | CLI app | [Repo](https://github.com/SandorTeleki/bookbot) |  Python |
 | Asteroids Game | Basic asteroids game. | CLI app | [Repo](https://github.com/SandorTeleki/asteroids-game) | Python |
+| Chirpy | A Twitter-like API server. | API |[Repo](https://github.com/SandorTeleki/chirpy) | TypeScript|
+
 
 <br /> 
 
