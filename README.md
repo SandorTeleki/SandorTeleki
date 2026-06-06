@@ -28,6 +28,7 @@ I also took over support for AshaBot, another Discord utility bot.
 | Chirpy | A Twitter-like API server. | API |[Repo](https://github.com/SandorTeleki/chirpy) | TypeScript|
 | goserver | Go HTTP server and a Python bookbot script, both containerized with Docker. | CLI/Docker app | [Repo](https://github.com/SandorTeleki/goserver)| Python/Go | 
 | peril | A multiplayer strategy game built with TypeScript and RabbitMQ to explore pub/sub messaging patterns. | CLI app | [Repo](https://github.com/SandorTeleki/peril) | TypeScript |
+| ai-agent | WIP | CLI app | [Repo](https://github.com/SandorTeleki/ai-agent) | Python |
 
 <br /> 
 
