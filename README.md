@@ -27,7 +27,7 @@ I also took over support for AshaBot, another Discord utility bot.
 | Asteroids Game | Basic asteroids game. | CLI app | [Repo](https://github.com/SandorTeleki/asteroids-game) | Python |
 | Chirpy | A Twitter-like API server. | API |[Repo](https://github.com/SandorTeleki/chirpy) | TypeScript|
 | goserver | Go HTTP server and a Python bookbot script, both containerized with Docker. | CLI/Docker app | [Repo](https://github.com/SandorTeleki/goserver)| Python/Go | 
-| peril | WIP | CLI app | [Repo](https://github.com/SandorTeleki/peril) | TypeScript |
+| peril | A multiplayer strategy game built with TypeScript and RabbitMQ to explore pub/sub messaging patterns. | CLI app | [Repo](https://github.com/SandorTeleki/peril) | TypeScript |
 
 <br /> 
 
