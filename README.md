@@ -26,7 +26,7 @@ I also took over support for AshaBot, another Discord utility bot.
 | Book Bot | Provides basic stats on books you have downloaded. | CLI app | [Repo](https://github.com/SandorTeleki/bookbot) |  Python |
 | Asteroids Game | Basic asteroids game. | CLI app | [Repo](https://github.com/SandorTeleki/asteroids-game) | Python |
 | Chirpy | A Twitter-like API server. | API |[Repo](https://github.com/SandorTeleki/chirpy) | TypeScript|
-| Tubely | WIP | WIP | [Repo](https://github.com/SandorTeleki/tubely) | Python |
+| Tubely | #1 tool for engagement bait (coursework) | Locally runable app | [Repo](https://github.com/SandorTeleki/tubely) | TypeScript |
 | goserver | Go HTTP server and a Python bookbot script, both containerized with Docker. | CLI/Docker app | [Repo](https://github.com/SandorTeleki/goserver)| Python/Go | 
 | peril | A multiplayer strategy game built with TypeScript and RabbitMQ to explore pub/sub messaging patterns. | CLI app | [Repo](https://github.com/SandorTeleki/peril) | TypeScript |
 | ai-agent | A coding agent to explore a codebase, interact with files, and run Python scripts to debug and build software. | CLI app | [Repo](https://github.com/SandorTeleki/ai-agent) | Python |
