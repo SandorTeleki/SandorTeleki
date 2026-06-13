@@ -18,7 +18,7 @@ I also took over support for AshaBot, another Discord utility bot.
  
 <br /> 
 
-## Projects based on [boot.dev](https://www.boot.dev/) courses:
+## Projects based on [boot.dev](https://www.boot.dev/) courses. Boot.dev [profile](https://www.boot.dev/u/utilizedfigure61):
 | Name | Description | Demo |Repository | Language |
 | -----| ----------- | ---- | --------- | -------- |
 | Pokedex | Basic Pokedex using [PokeAPI](https://pokeapi.co/). | CLI app | [Repo](https://github.com/SandorTeleki/pokedex) | TypeScript |
