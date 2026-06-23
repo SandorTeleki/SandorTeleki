@@ -23,15 +23,16 @@ I also took over support for AshaBot, another Discord utility bot.
 | -----| ----------- | ---- | --------- | -------- |
 | Pokedex | Basic Pokedex using [PokeAPI](https://pokeapi.co/). | CLI app | [Repo](https://github.com/SandorTeleki/pokedex) | TypeScript |
 | aggreGATOR | RSS feed aggregator. | CLI app | [Repo](https://github.com/SandorTeleki/aggreGATOR/tree/main) | TypeScript |
-| Book Bot | Provides basic stats on books you have downloaded. | CLI app | [Repo](https://github.com/SandorTeleki/bookbot) |  Python |
-| Asteroids Game | Basic asteroids game. | CLI app | [Repo](https://github.com/SandorTeleki/asteroids-game) | Python |
 | Chirpy | A Twitter-like API server. | API |[Repo](https://github.com/SandorTeleki/chirpy) | TypeScript|
 | Tubely | #1 tool for engagement bait (coursework) | Locally runable app | [Repo](https://github.com/SandorTeleki/tubely) | TypeScript |
-| goserver | Go HTTP server and a Python bookbot script, both containerized with Docker. | CLI/Docker app | [Repo](https://github.com/SandorTeleki/goserver)| Python/Go | 
 | peril | A multiplayer strategy game built with TypeScript and RabbitMQ to explore pub/sub messaging patterns. | CLI app | [Repo](https://github.com/SandorTeleki/peril) | TypeScript |
+| web-scraper | A concurrent web crawler that starts from a given URL and recursively visits all internal pages on the same domain. | CLI app | [Repo](https://github.com/SandorTeleki/web-scraper) | TypeScript |
+| goserver | Go HTTP server and a Python bookbot script, both containerized with Docker. | CLI/Docker app | [Repo](https://github.com/SandorTeleki/goserver)| Python/Go | 
+| Book Bot | Provides basic stats on books you have downloaded. | CLI app | [Repo](https://github.com/SandorTeleki/bookbot) |  Python |
+| Asteroids Game | Basic asteroids game. | CLI app | [Repo](https://github.com/SandorTeleki/asteroids-game) | Python |
 | ai-agent | A coding agent to explore a codebase, interact with files, and run Python scripts to debug and build software. | CLI app | [Repo](https://github.com/SandorTeleki/ai-agent) | Python |
 | static-site-generator | A custom-built static site generator written in Python. | [Demo](https://sandorteleki.github.io/static-site-generator/) | [Repo](https://github.com/SandorTeleki/static-site-generator) | Python |
-| web-scraper | A concurrent web crawler that starts from a given URL and recursively visits all internal pages on the same domain. | CLI app | [Repo](https://github.com/SandorTeleki/web-scraper) | TypeScript |
+
 
 <br /> 
 
